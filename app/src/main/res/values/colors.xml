@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Brand / Base -->
+    <color name="bg">#FFFFFFFF</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="textPrimary">#0F0E0E</color>
+
+    <!-- Primary (blue palette) -->
+    <color name="primary">#152E60</color>
+    <color name="onPrimary">#FFFFFFFF</color>
+    <color name="accent">#3D5AFE</color>
+
+    <!-- Text & surfaces -->
+    <color name="onSurface">#0F0E0E</color>
+    <color name="inputHint">#8A8A8A</color>
+    <color name="searchBg">#F6F6F8</color>
+    <color name="primaryContainer">#F7E8F0</color>
+    <color name="primaryRipple">#1A6E1849</color> <!-- 10% alpha of primary -->
+
+    <!-- Inputs -->
+    <color name="inputBackground">#FAFAFB</color>
+    <color name="inputStroke">#E0E0E0</color>
+
+    <!-- Utility -->
+    <color name="muted">#E6E6E6</color> <!-- used in some layouts -->
+
+    <!-- Category card backgrounds -->
+    <color name="catFoodBg">#FFF7F0</color>
+    <color name="catToysBg">#F0F6FF</color>
+    <color name="catGroomBg">#F7F2FF</color>
+    <color name="catVetBg">#F1FFF6</color>
+
+    <!-- CTA / info cards -->
+    <color name="ordersCardBg">#FFF3F5</color>
+
+</resources>

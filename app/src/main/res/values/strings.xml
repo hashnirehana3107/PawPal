@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">PawPal</string>
+
+    <!-- Bottom tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_library">Shop</string>
+    <string name="tab_journal">Care</string>
+    <string name="tab_history">Orders</string>
+
+    <!-- Home -->
+    <string name="home_tagline_1">Everything for your pet, right when you need it.</string>
+    <string name="home_tagline_2">Shop, track, and care — all in one app.</string>
+    <string name="home_tagline_3">From treats to vet care — MyFriend’s got it.</string>
+    <string name="home_search_hint">Search food, toys, grooming…</string>
+    <string name="shop_now">Shop now</string>
+    <string name="shop_by_category">Shop by category</string>
+    <string name="featured_products">Featured products</string>
+    <string name="track_orders">Track your orders</string>
+
+    <!-- Care -->
+    <string name="care_title">Care</string>
+    <string name="care_hint">How’s your pet today? (e.g., appetite, energy, meds)</string>
+    <string name="care_add_note">Add note </string>
+    <string name="care_recent_notes">Recent care notes</string>
+
+    <!-- Orders -->
+    <string name="orders_title">Orders</string>
+    <string name="orders_recent">Recent orders</string>
+
+    <!-- ✅ New strings required by activity_orders.xml -->
+    <string name="orders_next_delivery">Next delivery</string>
+    <string name="orders_next_delivery_sub">ETA: arriving soon</string>
+    <string name="orders_filter_all">All</string>
+    <string name="orders_filter_processing">Processing</string>
+    <string name="orders_filter_shipped">Shipped</string>
+    <string name="orders_filter_delivered">Delivered</string>
+    <string name="orders_filter_cancelled">Cancelled</string>
+
+    <!-- Auth (if used) -->
+    <string name="signin_title">Welcome back</string>
+    <string name="signup_title">Create your account</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="name_label">Name</string>
+    <string name="signin_btn">Sign In</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="have_account">Already have an account? Sign In</string>
+    <string name="no_account">Don’t have an account? Sign Up</string>
+    <string name="or">OR</string>
+
+    <!-- Onboarding -->
+    <string name="ob1_title">Everything for your pet</string>
+    <string name="ob1_desc">Shop food, toys, and grooming essentials in seconds.</string>
+    <string name="ob2_title">Track orders easily</string>
+    <string name="ob2_desc">Know where your package is—every step of the way.</string>
+    <string name="ob3_title">Care, simplified</string>
+    <string name="ob3_desc">Keep quick notes on meds, routines, and daily care.</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get started</string>
+</resources>

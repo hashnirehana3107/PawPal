@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"    android:title="Home 🏠"/>
+    <item android:id="@+id/nav_library" android:title="Shop 🛒"/>
+    <item android:id="@+id/nav_journal" android:title="Care 🐾"/>
+    <item android:id="@+id/nav_history" android:title="Orders 📦"/>
+</menu>
